@@ -6,7 +6,7 @@ My Transition
 We would like to use Git as a platform on top of witch we could build a new society.
 We are going to build a new society with the use of Latex documents. Each of them is a transition proposals.
 As it is clear now that our socio-economic system is not capable to care for us (the people), we are going to build a new one.
-As far as this repository is concern the destination of this transition should be some kine of a system based on a Resource Based Economy [[RBE](http://www.thevenusproject.com/the-venus-project/resource-based-economy)]
+As far as this repository is concern the destination of this transition should be some kind of a system based on a Resource Based Economy [[RBE](http://www.thevenusproject.com/the-venus-project/resource-based-economy)]
 
 ## Long term
 
