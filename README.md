@@ -81,7 +81,7 @@ Something that one day could be turn into law.
 ### Git
 
 If you are not sure about what are you doing use GitHub pull request to share your work.
-If you are sure everything is fine use a direct SSH connection to push your changes (see `goodies/user`)
+If you are sure everything is fine use a direct SSH connection to push your changes (see `goodies/ssh_access`)
 The remote branches are:
 
 1. `master` - official version
