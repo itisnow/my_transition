@@ -21,9 +21,9 @@ We would like to use Git as a platform on top of witch we could build a new soci
 We are going to build a new society with the use of Latex documents.
 Each of them is a transition proposals.
 As it is clear now that our socio-economic system is not capable to care for us (the people), we are going to build a new one.
-As far as this repository is concern the destination of this transition should be some kind of a system based on a Resource Based Economy.
+As far as this repository is concern the destination of this transition should be some kind of a system based on a Resource Based Economy [[RBE](http://www.thevenusproject.com/the-venus-project/resource-based-economy)]
 
-## Long term
+### Long term
 
 The best way to use our intelligence is to solve problems.
 One of the biggest problem ever seems to be: What we need to do to become a civilized society on a planetary level?
@@ -32,9 +32,9 @@ But this problem was already solved.
 The solution is a RBA.
 The true challenge is to synthesize the transition.
 The long term goal is to use a distributed version control system the allow the community to express it's own creativity.
-Each document (proposal) is a piece of legislation that could/should be sent to politician and one day be passed a law. 
+Each document (proposal) is a piece of legislation that could/should be considered by politician and one day be passed a law. 
 
-## Medium term
+### Medium term
 
 Create and collaborate on proposals that tackle specific socio-economic problems.
 Along the way verify if a version control system is the right platform.
@@ -43,7 +43,7 @@ There are a lot of similarities between writing laws and software.
 The best practice in unsentralized software development is Git.
 I believe Git could be the right way to allow millions of people to collaborate in the design of our society.
 
-## Short term
+### Short term
 
 Convince anybody to follow :)
 
@@ -57,7 +57,7 @@ To prevent it we have to realize the we are working for the community and not fo
 Politician are limited by the small communities they represent.
 If we are building it together we would have a greater respect for this new entity the we created.
 
-## Rules
+### Rules
 
 As I do not have control over what people do this should be seen as guidelines:
 
@@ -70,14 +70,14 @@ As I do not have control over what people do this should be seen as guidelines:
 6. when you first commit a document you can use your name in the author section.
 When you amend a document you should change the author to "The People" (or somthing similar that describes us all).
 
-## File Structure
+### File Structure
 
 1. folder approvals - here you can put your articles that could be considered as a peace of law that implements the transition.
 Something that one day could be turn into law.
 2. folder articles - an argumented discussion that tries to convince others to participate to this vision.
 3. folder goodies - solution to some environment issues
 
-## Git
+### Git
 
 If you are not sure about what are you doing use GitHub pull request to share your work.
 If you are sure everything is fine use a direct SSH connection to push your changes (see goodies/user)
@@ -97,7 +97,7 @@ The release cycle moves commits form dev to master branch.
 File release.tex it is wiped out after each release.
 The release to master should contain all the approvals (squashed into one commit), the release.tex file and all the improvements relevant for that release.
 
-## Environment
+### Environment
 What to install on Windows before starting:
 
 1. MikTex (compiles a tex file to a pdf)
