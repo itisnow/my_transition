@@ -14,6 +14,7 @@ The starting point of this discussion is how to achieve a society where the belo
 If when reading some of the article here you get the feeling that this is impossible, try to ask yourself what should I add to make it possible.
 It is all on you.
 I know you will not let us down.
+You can use your life experience and a [thought experiment](http://en.wikipedia.org/wiki/Thought_experiment) to show that a current socio-economic problem could not work and then propose a different solution. 
 
 #Goals
 
@@ -65,37 +66,37 @@ As I do not have control over what people do this should be seen as guidelines:
 1. except rule 1 and 2 everything can be changed
 2. keep in mind RBE's philosophy
 3. if you think a line of thought is wrong propose a change to make it right
-4. currently only two file types are allowed i.e. *.tex and *.bib
+4. currently only two file types are allowed i.e. `*.tex` and `*.bib`
 5. when you type text each sentence goes in its own line
 6. when you first commit a document you can use your name in the author section.
 When you amend a document you should change the author to "The People" (or somthing similar that describes us all).
 
 ### File Structure
 
-1. folder approvals - here you can put your articles that could be considered as a peace of law that implements the transition.
+1. folder `approvals` - here you can put your articles that could be considered as a peace of law that implements the transition.
 Something that one day could be turn into law.
-2. folder articles - an argumented discussion that tries to convince others to participate to this vision.
-3. folder goodies - solution to some environment issues
+2. folder `articles` - an argumented discussion that tries to convince others to participate to this vision.
+3. folder `goodies` - solution to some environment issues
 
 ### Git
 
 If you are not sure about what are you doing use GitHub pull request to share your work.
-If you are sure everything is fine use a direct SSH connection to push your changes (see goodies/user)
+If you are sure everything is fine use a direct SSH connection to push your changes (see `goodies/user`)
 The remote branches are:
 
-1. master - official version
-2. dev - current public development, to be merged into master at the end of current development iteration after formal collective approval
-3. backdoor - new document and/or minor (spelling) changes that can be pushed to master  without a formal collective approval
-4. dev-backdoor - fixes to dev branch needed to get a formal approval.
+1. `master` - official version
+2. `dev` - current public development, to be merged into master at the end of current development iteration after formal collective approval
+3. `backdoor` - new document and/or minor (spelling) changes that can be pushed to master  without a formal collective approval
+4. `dev-backdoor` - fixes to dev branch needed to get a formal approval.
 
 Each approval folder (e.g. p101) has two extra collaboration files.
-They are approved.tex and release.tex.
+They are `approved.tex` and `release.tex`.
 In the first one people that did not contribute can leave their approval.
 We do that by adding one line to the document and then commit it.
 The second one is a document meant to support the release cycle.
 The release cycle moves commits form dev to master branch.
-File release.tex it is wiped out after each release.
-The release to master should contain all the approvals (squashed into one commit), the release.tex file and all the improvements relevant for that release.
+File `release.tex` it is wiped out after each release.
+The release to master should contain all the approvals (squashed into one commit), the `release.tex` file and all the improvements relevant for that release.
 
 ### Environment
 What to install on Windows before starting:
