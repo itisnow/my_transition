@@ -1,7 +1,7 @@
 My Transition
 =============
 
-The starting point of this discussion is how to achieve a society where the below statements would be true (see Resource Based Economy [[RBE](http://www.thevenusproject.com/the-venus-project/resource-based-economy)]):
+At the starting point of this discussion we have the will to achieve a society where the below statements would be true (see Resource Based Economy [RBE](http://www.thevenusproject.com/the-venus-project/resource-based-economy) or watch a  [movie](http://www.zeitgeistmovie.com/)):
 
 1. resources must be equally distributed among all people
 2. free access to those resources
@@ -13,16 +13,16 @@ The starting point of this discussion is how to achieve a society where the belo
 
 If when reading some of the article here you get the feeling that this is impossible, try to ask yourself what should I add to make it possible.
 It is all on you.
-I know you will not let us down.
+We know you will not let us down.
 You can use your life experience and a [thought experiment](http://en.wikipedia.org/wiki/Thought_experiment) to show that a current socio-economic problem could not work and then propose a different solution. 
 
-#Goals
+## Goals
 
 We would like to use Git as a platform on top of witch we could build a new society.
 We are going to build a new society with the use of Latex documents.
 Each of them is a transition proposals.
-As it is clear now that our socio-economic system is not capable to care for us (the people), we are going to build a new one.
-As far as this repository is concern the destination of this transition should be some kind of a system based on a Resource Based Economy [[RBE](http://www.thevenusproject.com/the-venus-project/resource-based-economy)]
+As it is clear now, our socio-economic system is not able to take care of us (the people), we are going to build a new one.
+As far as this repository is concern the destination of this transition should be some kind of a system based on a RBE.
 
 ### Long term
 
@@ -30,32 +30,35 @@ The best way to use our intelligence is to solve problems.
 One of the biggest problem ever seems to be: What we need to do to become a civilized society on a planetary level?
 With more fancy words: How to start the process that will lead us to a type 1 civilization [[Kardashev_scale](http://en.wikipedia.org/wiki/Kardashev_scale)]?
 But this problem was already solved.
-The solution is a RBA.
+The solution is a RBE.
 The true challenge is to synthesize the transition.
+In order to meet this challenge we need to use the intelligence of the entire human population.
 The long term goal is to use a distributed version control system the allow the community to express it's own creativity.
-Each document (proposal) is a piece of legislation that could/should be considered by politician and one day be passed a law. 
+Each document (proposal) is a piece of legislation that could/should be considered by politician and one day be passed as law. 
 
 ### Medium term
 
 Create and collaborate on proposals that tackle specific socio-economic problems.
 Along the way verify if a version control system is the right platform.
-We certainly need an uncentralized way of writing law.
+We certainly need an decentralized way of writing law.
 There are a lot of similarities between writing laws and software.
-The best practice in unsentralized software development is Git.
-I believe Git could be the right way to allow millions of people to collaborate in the design of our society.
+The best practice in decentralized software development is Git.
+We believe Git could be the right way to allow millions of people to collaborate in the design of our society.
+A proposal is less formal then a legislation document could be.
+Its main purpose is to present a transition proposal with sound arguments to convince a global audience.
 
 ### Short term
 
 Convince anybody to follow :)
 
-# Collaboration
+## Collaboration
 
 Politician an politics has deviated so much from reality in the past years that it need a complete overhaul.
 Politician are just too few to tackle the complexity of the real world.
+They are also limited by the small communities they represent.
 We need to drastically increase the number of people involved if we want real change.
 At the same time more people could mean endless discussion.
-To prevent it we have to realize the we are working for the community and not for our personal gain.
-Politician are limited by the small communities they represent.
+To prevent it we have to realize that our personal gain is working for the benefit of the community.
 If we are building it together we would have a greater respect for this new entity the we created.
 
 ### Rules
@@ -104,3 +107,8 @@ What to install on Windows before starting:
 1. MikTex (compiles a tex file to a pdf)
 2. TexMaker (it provides spell checking, if you do not it just use MikTex for editing documents)
 3. Git
+
+## Appendix
+
+You can read some of the documents found in this repository [here](https://www.dropbox.com/sh/v3mxz800mkoz7m2/ql1VdVJD4e).
+You can also go to the proposals and articles folders where you can find a list of all the documents in their respective sub folders.
